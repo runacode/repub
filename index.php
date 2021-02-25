@@ -1,4 +1,4 @@
-<?php $company = "Republic Landscapes";
+h<?php $company = "Republic Landscapes";
 $phone = "(979) 775-9999";
 	$address1 = "307 S Main St";
 	$address2 = "Bryan, TX 77803";
@@ -73,8 +73,8 @@ $phone = "(979) 775-9999";
                     
                   </div>
                 </div>
-                <h3 class="u-text u-text-7">Get in touch</h3>
-                <h6 class="u-text u-text-8">Hey! We are looking forward to start a project with you!</h6>
+                <h3 class="u-text u-text-7">Reach out!</h3>
+                <h6 class="u-text u-text-8">We would love to do business with you!</h6>
               </div>
             </div>
           </div>
